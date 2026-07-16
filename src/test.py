@@ -1,0 +1,1 @@
+spark.sql("DESCRIBE TABLE samples.accuweather").show()
